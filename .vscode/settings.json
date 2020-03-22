@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "E:\\BE_Project\\backend\\env\\Scripts\\python.exe",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
+}

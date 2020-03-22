@@ -1,0 +1,3 @@
+Prediction: Banana, Probability: 0.36000508, x_min: 188, y_min: 188, x_max: 384, y_max: 327
+Prediction: Apple, Probability: 0.6218491, x_min: 184, y_min: 75, x_max: 372, y_max: 246
+Prediction: Apple, Probability: 0.9468561, x_min: 9, y_min: 116, x_max: 227, y_max: 311
